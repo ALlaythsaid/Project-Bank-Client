@@ -71,7 +71,7 @@ This project is the culmination of my foundational learning journey in computer 
 
 | Update Client Details | Delete Client Confirmation |
 | :---: | :---: |
-| ![Update Client](./ScreenShots/UpdateClient.png) | ![Delete Client](./ScreenShots/DeleteClientScreen.png) |
+| ![Update Client](./ScreenShots/UpdateClientScreen.png) | ![Delete Client](./ScreenShots/DeleteClientScreen.png) |
 
 ### 3. Financial Transactions & Transfer Audit Logs
 | Transfer Money Screen | Transfer Audit Logs Screen |
