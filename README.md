@@ -34,6 +34,13 @@ This project is the culmination of my foundational learning journey in computer 
 
 ## 🚀 Key Features
 
+---
+
+## 💡 Security Lesson Learned (A Note from the Author)
+> **Plain Text Password Storage:** During the development phase of this console project (as part of my foundational learning), user passwords were initially stored in plain text within text files. 
+> 
+> Through this project, I realized the critical security risks associated with unencrypted storage (lack of confidentiality and vulnerability to data breaches). This became a core milestone for my growth, and in my upcoming enterprise/backend projects (ASP.NET Core & Database levels), I am strictly implementing modern security standards, including **Password Hashing (BCrypt/Argon2)** and **JWT Authentication**.
+
 ### 🔐 1. Authentication & Role-Based Access Control (RBAC)
 - **User Login:** Secure authentication with username and password verification.
 - **Bitwise Permissions System:** Flexible permission flags granted per user to restrict or allow access to specific system features.
