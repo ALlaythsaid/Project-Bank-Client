@@ -1,4 +1,21 @@
+
+# Visual Studio
 .vs/
+*.user
+*.suo
+
+# Build output
 x64/
 Debug/
 Release/
+out/
+ipch/
+*.obj
+*.pdb
+*.ilk
+*.tlog/
+*.log
+
+# Temporary files
+*.tmp
+*.bak
