@@ -21,19 +21,19 @@ This project is the culmination of my foundational learning journey in computer 
 
 ## 📜 Course Certificates (Levels 5–13)
 
-Click any certificate preview to open the original PDF document.
+Click any certificate preview to open the full-size certificate image.
 
-|                   Course Level                    |                                           Certificate Preview                                           |
-| :-------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Level 5** — Algorithms & Problem Solving Level 2  |   [![Level 5 Certificate](Project-Bank-Client/certificates/Level%205.png)](Project-Bank-Client/certificates/Level%205.pdf)   |
-|                     **Level 6**                     |   [![Level 6 Certificate](Project-Bank-Client/certificates/Level%206.png)](Project-Bank-Client/certificates/Level%206.pdf)   |
-| **Level 7** — Algorithms & Problem Solving Level 3  |   [![Level 7 Certificate](Project-Bank-Client/certificates/Level%207.png)](Project-Bank-Client/certificates/Level%207.pdf)   |
-| **Level 8** — Algorithms & Problem Solving Level 4  |   [![Level 8 Certificate](Project-Bank-Client/certificates/Level%208.png)](Project-Bank-Client/certificates/Level%208.pdf)   |
-|          **Level 9** — Foundations Level 2          |   [![Level 9 Certificate](Project-Bank-Client/certificates/Level%209.png)](Project-Bank-Client/certificates/Level%209.pdf)   |
-|             **Level 10** — OOP Concepts             | [![Level 10 Certificate](Project-Bank-Client/certificates/Level%2010.png)](Project-Bank-Client/certificates/Level%2010.pdf) |
-|           **Level 11** — OOP Applications           | [![Level 11 Certificate](Project-Bank-Client/certificates/Level%2011.png)](Project-Bank-Client/certificates/Level%2011.pdf) |
-|       **Level 12** — Data Structures Level 1        | [![Level 12 Certificate](Project-Bank-Client/certificates/Level%2012.png)](Project-Bank-Client/certificates/Level%2012.pdf) |
-| **Level 13** — Algorithms & Problem Solving Level 5 | [![Level 13 Certificate](Project-Bank-Client/certificates/Level%2013.png)](Project-Bank-Client/certificates/Level%2013.pdf) |
+|                    Course Level                     |                                             Certificate Preview                                             |
+| :-------------------------------------------------: | :---------------------------------------------------------------------------------------------------------: |
+| **Level 5** — Algorithms & Problem Solving Level 2  |  [![Level 5 Certificate](Bank-Client/certificates/Level%205.png)](Bank-Client/certificates/Level%205.png)   |
+|                     **Level 6**                     |  [![Level 6 Certificate](Bank-Client/certificates/Level%206.png)](Bank-Client/certificates/Level%206.png)   |
+| **Level 7** — Algorithms & Problem Solving Level 3  |  [![Level 7 Certificate](Bank-Client/certificates/Level%207.png)](Bank-Client/certificates/Level%207.png)   |
+| **Level 8** — Algorithms & Problem Solving Level 4  |  [![Level 8 Certificate](Bank-Client/certificates/Level%208.png)](Bank-Client/certificates/Level%208.png)   |
+|          **Level 9** — Foundations Level 2          |  [![Level 9 Certificate](Bank-Client/certificates/Level%209.png)](Bank-Client/certificates/Level%209.png)   |
+|             **Level 10** — OOP Concepts             | [![Level 10 Certificate](Bank-Client/certificates/Level%2010.png)](Bank-Client/certificates/Level%2010.png) |
+|           **Level 11** — OOP Applications           | [![Level 11 Certificate](Bank-Client/certificates/Level%2011.png)](Bank-Client/certificates/Level%2011.png) |
+|       **Level 12** — Data Structures Level 1        | [![Level 12 Certificate](Bank-Client/certificates/Level%2012.png)](Bank-Client/certificates/Level%2012.png) |
+| **Level 13** — Algorithms & Problem Solving Level 5 | [![Level 13 Certificate](Bank-Client/certificates/Level%2013.png)](Bank-Client/certificates/Level%2013.png) |
 
 ---
 
@@ -78,35 +78,35 @@ Click any certificate preview to open the original PDF document.
 
 ### 1. Authentication & Main Menu
 
-|                    Login Screen                   |                  Main Menu Screen                 |
-| :--------------------------------------------: | :----------------------------------------: |
-| ![Login Screen](Project-Bank-Client/ScreenShots/LoginScreen.png) | ![Main Menu](Project-Bank-Client/ScreenShots/MainScreen.png) |
+|                       Login Screen                       |                   Main Menu Screen                   |
+| :------------------------------------------------------: | :--------------------------------------------------: |
+| ![Login Screen](Bank-Client/ScreenShots/LoginScreen.png) | ![Main Menu](Bank-Client/ScreenShots/MainScreen.png) |
 
 ### 2. Client Management (CRUD)
 
-|                     Client List                     |                   Add New Client                    |
-| :-------------------------------------------------: | :-------------------------------------------------: |
-| ![Client List](Project-Bank-Client/ScreenShots/ClientListScreen.png) | ![Add Client](Project-Bank-Client/ScreenShots/AddNewClientScreen.png) |
+|                         Client List                          |                        Add New Client                         |
+| :----------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![Client List](Bank-Client/ScreenShots/ClientListScreen.png) | ![Add Client](Bank-Client/ScreenShots/AddNewClientScreen.png) |
 
-|                  Update Client Details                 |                   Delete Client Confirmation                   |
-| :----------------------------------------------------: | :----------------------------------------------------: |
-| ![Update Client](Project-Bank-Client/ScreenShots/UpdateClientScreen.png) | ![Delete Client](Project-Bank-Client/ScreenShots/DeleteClientScreen.png) |
+|                      Update Client Details                       |                    Delete Client Confirmation                    |
+| :--------------------------------------------------------------: | :--------------------------------------------------------------: |
+| ![Update Client](Bank-Client/ScreenShots/UpdateClientScreen.png) | ![Delete Client](Bank-Client/ScreenShots/DeleteClientScreen.png) |
 
 ### 3. Financial Transactions & Transfer Audit Logs
 
-|             Transfer Money Screen              |                Transfer Audit Logs Screen                |
-| :-------------------------------------------: | :------------------------------------------------------: |
-| ![Transfer](Project-Bank-Client/ScreenShots/TransferScreen.png) | ![Transfer Log](Project-Bank-Client/ScreenShots/TransferLogListScreen.png) |
+|                  Transfer Money Screen                  |                     Transfer Audit Logs Screen                     |
+| :-----------------------------------------------------: | :----------------------------------------------------------------: |
+| ![Transfer](Bank-Client/ScreenShots/TransferScreen.png) | ![Transfer Log](Bank-Client/ScreenShots/TransferLogListScreen.png) |
 
-|                  Deposit Operation                 |                  Access Denied Guard                  |
-| :-----------------------------------------: | :----------------------------------------------: |
-| ![Deposit](Project-Bank-Client/ScreenShots/DepositScreen.png) | ![Access Denied](Project-Bank-Client/ScreenShots/DeniedScreen.png) |
+|                   Deposit Operation                   |                    Access Denied Guard                     |
+| :---------------------------------------------------: | :--------------------------------------------------------: |
+| ![Deposit](Bank-Client/ScreenShots/DepositScreen.png) | ![Access Denied](Bank-Client/ScreenShots/DeniedScreen.png) |
 
 ### 4. Currency Exchange Engine
 
-|                     Currencies List                     |                     Find Currency                      |                 Currency Calculator                 |
-| :---------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------: |
-| ![Currencies](Project-Bank-Client/ScreenShots/CurrenciesListScreen.png) | ![Find Currency](Project-Bank-Client/ScreenShots/FindCurrencyScreen.png) | ![Exchange](Project-Bank-Client/ScreenShots/UpdateCurrencyScreen.png) |
+|                         Currencies List                         |                          Find Currency                           |                      Currency Calculator                      |
+| :-------------------------------------------------------------: | :--------------------------------------------------------------: | :-----------------------------------------------------------: |
+| ![Currencies](Bank-Client/ScreenShots/CurrenciesListScreen.png) | ![Find Currency](Bank-Client/ScreenShots/FindCurrencyScreen.png) | ![Exchange](Bank-Client/ScreenShots/UpdateCurrencyScreen.png) |
 
 ---
 
