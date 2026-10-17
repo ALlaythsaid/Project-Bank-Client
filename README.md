@@ -23,13 +23,13 @@ This project is the culmination of my foundational learning journey in computer 
 
 Click any certificate preview to open the original PDF document.
 
-|                    Course Level                     |                                 Certificate Preview                                 |
+|                   Course Level                    |                                           Certificate Preview                                           |
 | :-------------------------------------------------: | :---------------------------------------------------------------------------------: |
-| **Level 5** — Algorithms & Problem Solving Level 2  |  [![Level 5 Certificate](certificates/Level%205.png)](certificates/Level%205.pdf)   |
-|                     **Level 6**                     |  [![Level 6 Certificate](certificates/Level%206.png)](certificates/Level%206.pdf)   |
-| **Level 7** — Algorithms & Problem Solving Level 3  |  [![Level 7 Certificate](certificates/Level%207.png)](certificates/Level%207.pdf)   |
-| **Level 8** — Algorithms & Problem Solving Level 4  |  [![Level 8 Certificate](certificates/Level%208.png)](certificates/Level%208.pdf)   |
-|          **Level 9** — Foundations Level 2          |  [![Level 9 Certificate](certificates/Level%209.png)](certificates/Level%209.pdf)   |
+| **Level 5** — Algorithms & Problem Solving Level 2  |   [![Level 5 Certificate](certificates/Level%205.png)](certificates/Level%205.pdf)   |
+|                     **Level 6**                     |   [![Level 6 Certificate](certificates/Level%206.png)](certificates/Level%206.pdf)   |
+| **Level 7** — Algorithms & Problem Solving Level 3  |   [![Level 7 Certificate](certificates/Level%207.png)](certificates/Level%207.pdf)   |
+| **Level 8** — Algorithms & Problem Solving Level 4  |   [![Level 8 Certificate](certificates/Level%208.png)](certificates/Level%208.pdf)   |
+|          **Level 9** — Foundations Level 2          |   [![Level 9 Certificate](certificates/Level%209.png)](certificates/Level%209.pdf)   |
 |             **Level 10** — OOP Concepts             | [![Level 10 Certificate](certificates/Level%2010.png)](certificates/Level%2010.pdf) |
 |           **Level 11** — OOP Applications           | [![Level 11 Certificate](certificates/Level%2011.png)](certificates/Level%2011.pdf) |
 |       **Level 12** — Data Structures Level 1        | [![Level 12 Certificate](certificates/Level%2012.png)](certificates/Level%2012.pdf) |
@@ -78,35 +78,35 @@ Click any certificate preview to open the original PDF document.
 
 ### 1. Authentication & Main Menu
 
-|                  Login Screen                  |              Main Menu Screen              |
+|                    Login Screen                   |                  Main Menu Screen                 |
 | :--------------------------------------------: | :----------------------------------------: |
-| ![Login Screen](./ScreenShots/LoginScreen.png) | ![Main Menu](./ScreenShots/MainScreen.png) |
+| ![Login Screen](ScreenShots/LoginScreen.png) | ![Main Menu](ScreenShots/MainScreen.png) |
 
 ### 2. Client Management (CRUD)
 
-|                    Client List                     |                   Add New Client                    |
-| :------------------------------------------------: | :-------------------------------------------------: |
-| ![Client List](./ScreenShots/ClientListScreen.png) | ![Add Client](./ScreenShots/AddNewClientScreen.png) |
+|                     Client List                     |                   Add New Client                    |
+| :-------------------------------------------------: | :-------------------------------------------------: |
+| ![Client List](ScreenShots/ClientListScreen.png) | ![Add Client](ScreenShots/AddNewClientScreen.png) |
 
-|                 Update Client Details                  |               Delete Client Confirmation               |
+|                  Update Client Details                 |                   Delete Client Confirmation                   |
 | :----------------------------------------------------: | :----------------------------------------------------: |
-| ![Update Client](./ScreenShots/UpdateClientScreen.png) | ![Delete Client](./ScreenShots/DeleteClientScreen.png) |
+| ![Update Client](ScreenShots/UpdateClientScreen.png) | ![Delete Client](ScreenShots/DeleteClientScreen.png) |
 
 ### 3. Financial Transactions & Transfer Audit Logs
 
-|             Transfer Money Screen             |                Transfer Audit Logs Screen                |
+|             Transfer Money Screen              |                Transfer Audit Logs Screen                |
 | :-------------------------------------------: | :------------------------------------------------------: |
-| ![Transfer](./ScreenShots/TransferScreen.png) | ![Transfer Log](./ScreenShots/TransferLogListScreen.png) |
+| ![Transfer](ScreenShots/TransferScreen.png) | ![Transfer Log](ScreenShots/TransferLogListScreen.png) |
 
-|              Deposit Operation              |               Access Denied Guard                |
+|                  Deposit Operation                 |                  Access Denied Guard                  |
 | :-----------------------------------------: | :----------------------------------------------: |
-| ![Deposit](./ScreenShots/DepositScreen.png) | ![Access Denied](./ScreenShots/DeniedScreen.png) |
+| ![Deposit](ScreenShots/DepositScreen.png) | ![Access Denied](ScreenShots/DeniedScreen.png) |
 
 ### 4. Currency Exchange Engine
 
-|                    Currencies List                    |                     Find Currency                      |                 Currency Calculator                 |
+|                     Currencies List                     |                     Find Currency                      |                 Currency Calculator                 |
 | :---------------------------------------------------: | :----------------------------------------------------: | :-------------------------------------------------: |
-| ![Currencies](./ScreenShots/CurrenciesListScreen.png) | ![Find Currency](./ScreenShots/FindCurrencyScreen.png) | ![Exchange](./ScreenShots/UpdateCurrencyScreen.png) |
+| ![Currencies](ScreenShots/CurrenciesListScreen.png) | ![Find Currency](ScreenShots/FindCurrencyScreen.png) | ![Exchange](ScreenShots/UpdateCurrencyScreen.png) |
 
 ---
 
